@@ -51,12 +51,12 @@
    cd FlutterApp/waste_emition_predictor
    flutter pub get
    flutter run
-
+```
 
 ### API (Local Development)
 bash
 cd API
 pip install -r requirements.txt
 uvicorn main:app --reload
-
+```
 

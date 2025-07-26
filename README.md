@@ -42,7 +42,7 @@
 
 
 ## Demo Video
-[![Loom Demo](https://www.loom.com/share/c67c688bb9be42fd894ad671016dbe94?sid=b2bb9afb-e73a-419a-b7dd-bc440b31c94b)](https://www.loom.com/share/c67c688bb9be42fd894ad671016dbe94?sid=b2bb9afb-e73a-419a-b7dd-bc440b31c94b)
+[![Watch the video](https://img.youtube.com/vi/8b1g0k2j3a4/maxresdefault.jpg)](https://www.loom.com/share/c67c688bb9be42fd894ad671016dbe94?sid=315e3126-8c3e-49ff-8fcf-cd192e0299d5)
 
 ## How to Run
 
@@ -55,6 +55,7 @@
 
 ### API (Local Development)
 bash
+```bash
 cd API
 pip install -r requirements.txt
 uvicorn main:app --reload

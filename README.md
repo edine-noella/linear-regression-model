@@ -20,27 +20,6 @@
 ### API Endpoint
 **Swagger UI**: [API Documentation](https://methane-emissions-from-landfill.onrender.com/docs#/)
 
-### Repository Structure
-
-├── linear-regression/ # Jupyter notebook with model development and prediction using best model
-│   ├──multivariate.ipynb
-│   └──predict.py
-│
-├── API/ # FastAPI implementation
-│ ├── main.py
-│ ├── requirements.txt
-│ ├── prediction.py
-│ ├── scaler.pkl
-│ ├── waste_emission_model.pkl
-│ └── selected_features.pkl
-|
-├── FlutterApp/waste_emition_predictor/ # Flutter implementation
-│ ├── lib/
-│ ├── pubspec.yaml
-│ └── ...
-
-
-
 ## Demo Video
 [Watch the video](https://www.loom.com/share/c67c688bb9be42fd894ad671016dbe94?sid=315e3126-8c3e-49ff-8fcf-cd192e0299d5)
 

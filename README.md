@@ -42,7 +42,7 @@
 
 
 ## Demo Video
-[![Watch the video]](https://www.loom.com/share/c67c688bb9be42fd894ad671016dbe94?sid=315e3126-8c3e-49ff-8fcf-cd192e0299d5)
+[Watch the video](https://www.loom.com/share/c67c688bb9be42fd894ad671016dbe94?sid=315e3126-8c3e-49ff-8fcf-cd192e0299d5)
 
 ## How to Run
 
